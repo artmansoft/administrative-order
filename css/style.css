@@ -1,0 +1,7 @@
+body {
+	direction: rtl;
+}
+
+.item .item-content {
+	padding: 16px 16px 16px 49px;
+}
